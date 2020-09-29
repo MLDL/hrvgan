@@ -61,6 +61,8 @@ our generated videos for the JumpingJack (1st row) and TaiChi (2nd row)
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020hrvgan,
   title={HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN},
@@ -69,6 +71,10 @@ If you find this code useful in your research, please consider citing the paper:
   year={2020}
 }
 ```
+
+APA:
+
+`Sagar, A. (2020). HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN. arXiv preprint arXiv:2008.09646.`
 
 ## License
 
