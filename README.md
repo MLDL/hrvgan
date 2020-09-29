@@ -1,7 +1,7 @@
 # HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN
 Code for the paper `HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN`
 
-Link to [Paper](https://abhinavsagar.github.io/files/hrvgan.pdf).
+Link to [Paper](https://arxiv.org/pdf/2008.09646).
 
 ## Abstract
 
