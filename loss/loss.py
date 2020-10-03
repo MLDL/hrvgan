@@ -1,8 +1,6 @@
 import numpy as np
 import tensorflow as tf
 
-import tfutil
-
 def G_wgan(G, D, opt, training_set, minibatch_size,
     cond_weight = 1.0): # Weight of the conditioning term.
     latents = tf.random_normal([minibatch_size] + G.input_shapes[0][1:])
