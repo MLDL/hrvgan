@@ -20,10 +20,10 @@ state of the art networks on unsupervised video generation.
 
 The following datasets were used in this work for training and testing our network for video generation:
 
-1. UCF101 Dataset: The purpose of this dataset was training networks robust for action recognition
+1. `UCF101 Dataset`: The purpose of this dataset was training networks robust for action recognition
 tasks. It contains 13320 videos of 101 different action categories like Sky Diving, Knitting and
 Baseball Pitch.
-2. Golf and Aeroplane Datasets: It contains 128×128 resolution frames which can be used for
+2. `Golf and Aeroplane Datasets`: It contains 128×128 resolution frames which can be used for
 evaluating video generative adversarial networks.
 
 ## Network Architecture
@@ -44,18 +44,19 @@ evaluating video generative adversarial networks.
 
 ![results](images/v7.png)
 
-Linear interpolation in latent space to generate samples from Golf dataset
+### Linear interpolation in latent space to generate samples from Golf dataset:
 
 ![results](images/v1.png)
 
-Linear interpolation in latent space to generate samples from Aeroplane dataset
+### Linear interpolation in latent space to generate samples from Aeroplane dataset:
 
 ![results](images/v2.png)
 
-Results on UCF-101 generated from random noise. For each task, we display 8 frames of
-our generated videos for the JumpingJack (1st row) and TaiChi (2nd row)
+### Results on UCF-101 generated from random noise:
 
 ![results](images/v3.png)
+
+For each task, we display 8 frames of our generated videos for the JumpingJack (1st row) and TaiChi (2nd row)
 
 ## Citing
 
@@ -72,9 +73,9 @@ BibTex:
 }
 ```
 
-APA:
+MLA:
 
-`Sagar, A. (2020). HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN. arXiv preprint arXiv:2008.09646.`
+`Sagar, Abhinav. "HRVGAN: High Resolution Video Generation using Spatio-Temporal GAN." arXiv preprint arXiv:2008.09646 (2020).`
 
 ## License
 
