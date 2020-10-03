@@ -3,13 +3,8 @@ import time
 import numpy as np
 import tensorflow as tf
 
-import config
-import tfutil
-import dataset
-import misc
 from itertools import chain
 from collections import OrderedDict
-
 
 os.environ["CUDA_VISIBLE_DEVICES"] = os.environ['SGE_GPU']
 
